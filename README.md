@@ -62,8 +62,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Akashp25/finance-dashboard-ui
-   cd Finance_Dashboard_UI
+   git clone https://github.com/Akashp25/finance-dashboard-ui.git
+   cd finance-dashboard-ui
    ```
 
 2. **Install dependencies**
