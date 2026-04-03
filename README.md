@@ -28,6 +28,9 @@ A sophisticated, modern SaaS-style finance dashboard built with React, featuring
 - **State Management**: React Context API with useReducer
 - **Build Tool**: Vite for fast development and optimized builds
 
+## Live Demo
+https://finance-dashboard-ui-brown-two.vercel.app/
+
 ## 📁 Project Structure
 
 ```
