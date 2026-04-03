@@ -28,9 +28,6 @@ A sophisticated, modern SaaS-style finance dashboard built with React, featuring
 - **State Management**: React Context API with useReducer
 - **Build Tool**: Vite for fast development and optimized builds
 
-## Live demo
-
-
 ## 📁 Project Structure
 
 ```
@@ -225,4 +222,3 @@ For support, please open an issue in the GitHub repository or contact the develo
 ---
 
 **FinanceHub** - Where financial management meets modern design 🚀
-#
