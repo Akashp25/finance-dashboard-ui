@@ -7,11 +7,12 @@ The application provides transaction management, financial analytics, and role-b
 
 # 🚀 Live Features
 
-  # 📊 Dashboard Overview
-        -- Real-time financial summary
-        -- Total balance, income, and expenses
-        -- Interactive charts and data visualization
-         Recent transaction overview   
+  ### Core Functionality
+- **Dashboard Overview**: Real-time financial summaries with interactive charts
+- **Transaction Management**: Full CRUD operations with advanced filtering and search
+- **Financial Insights**: Deep analytics with personalized recommendations
+- **Role-Based Access**: Admin and Viewer roles with different permissions
+- **Dark Mode**: Complete dark/light theme support with smooth transitions 
       
   # 💳 Transaction Management
          Add, edit, and delete transactions
