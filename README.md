@@ -1,87 +1,54 @@
-# FinanceHub - Modern Finance Dashboard UI
+# Finance Dashboard UI
 
-A modern SaaS-style finance dashboard built using React that helps users manage financial data, analyze spending habits, and visualize insights through interactive charts.
+## Overview
 
-The application provides transaction management, financial analytics, and role-based access with a responsive and elegant user interface.
------------------------------------------------------------------------------------------------------------------------------
+The Finance Dashboard UI is a dynamic web application designed to provide users with an intuitive interface for managing and analyzing their financial data. The application offers various features such as expense tracking, budget management, and financial reporting.
 
-# 🚀 Live Features
+## Features
 
-  ### Core Functionality
-- **Dashboard Overview**: Real-time financial summaries with interactive charts
-- **Transaction Management**: Full CRUD operations with advanced filtering and search
-- **Financial Insights**: Deep analytics with personalized recommendations
-- **Role-Based Access**: Admin and Viewer roles with different permissions
-- **Dark Mode**: Complete dark/light theme support with smooth transitions 
-      
-  # 💳 Transaction Management
-         Add, edit, and delete transactions
-         Advanced filtering and searching
-         Sort by date, amount, or category
-         Export transactions to CSV
-      
-  # 📈 Financial Insights
-         Monthly income vs expense analysis
-         Spending category breakdown
-         Financial health score
-         Personalized recommendations
-      
-  # 👤 Role-Based Access
-         Admin
-         Full CRUD operations
-         Manage transactions
-         Viewer
-Read-only access
-  # 🌙 Dark Mode
-         Full light/dark theme support
-         Automatic system preference detection
-         Smooth transitions
-----------------------------------------------------------------------------------------------------------------------
-         
-# 🛠 Tech Stack
+- **Expense Tracking:** Effortlessly track your daily spending and monitor your financial health.
+- **Budget Management:** Set and manage budgets to meet your financial goals.
+- **Financial Reports:** Generate insightful reports to visualize your expenditure and savings.
+- **User-Friendly Interface:** Simple and clean design for a better user experience.
+- **Responsive Design:** Compatible with both desktop and mobile devices.
 
-| Technology        | Purpose                     |
-| ----------------- | --------------------------- |
-| React 18          | Frontend Framework          |
-| Vite              | Fast development build tool |
-| Tailwind CSS      | Styling framework           |
-| Recharts          | Data visualization          |
-| Lucide React      | Icons                       |
-| React Context API | Global state management     |
-| LocalStorage      | Data persistence            |
+## Getting Started
 
+### Prerequisites
 
-----------------------------------------------------------------------------------------------------------------------------
-# 📂 Project Structure
-src
-│
-├── components
-│   ├── SummaryCards.jsx
-│   ├── TransactionTable.jsx
-│   ├── Charts.jsx
-│   ├── Navigation.jsx
-│   ├── RoleSwitcher.jsx
-│   ├── AddTransactionModal.jsx
-│   └── Filters.jsx
-│
-├── pages
-│   ├── Dashboard.jsx
-│   ├── Transactions.jsx
-│   └── Insights.jsx
-│
-├── context
-│   └── AppContext.jsx
-│
-├── data
-│   └── mockTransactions.js
-│
-├── App.jsx
-└── main.jsx
+- Node.js (v12 or later)
+- npm (Node Package Manager)
 
--------------------------------------------------------------------------------------------------------------------------
+### Installation
 
-# ⚙️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Akashp25/finance-dashboard-ui.git
+   ```
 
-# Clone Repository
-git clone https://github.com/Akashp25/finance-dashboard-ui.git
-cd finance-dashboard-ui
+2. Navigate to the project directory:
+   ```bash
+   cd finance-dashboard-ui
+   ```
+
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running the Application
+
+To start the application in development mode, use the following command:
+```bash
+npm start
+```
+
+Visit `http://localhost:3000` in your web browser to view the application.
+
+## Contributing
+
+We welcome contributions to enhance the functionality and usability of the project. Please fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
