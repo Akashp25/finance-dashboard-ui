@@ -188,24 +188,7 @@ The application uses realistic mock transaction data including:
 - Data survives page refreshes
 - Export functionality for data backup
 
-## 🔒 Security Considerations
 
-- Client-side data validation
-- XSS prevention through React's built-in protections
-- Secure LocalStorage usage
-- Input sanitization for user data
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -215,10 +198,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Lucide for the modern icon set
 - Vite for the lightning-fast build tool
 
-## 📞 Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
----
-
-**FinanceHub** - Where financial management meets modern design 🚀
