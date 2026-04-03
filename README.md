@@ -8,9 +8,9 @@ The application provides transaction management, financial analytics, and role-b
 # 🚀 Live Features
 
   # 📊 Dashboard Overview
-         Real-time financial summary
-         Total balance, income, and expenses
-         Interactive charts and data visualization
+        -- Real-time financial summary
+        -- Total balance, income, and expenses
+        -- Interactive charts and data visualization
          Recent transaction overview   
       
   # 💳 Transaction Management
