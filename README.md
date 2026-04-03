@@ -1,4 +1,4 @@
-# FinanceHub - Modern Finance Dashboard UI
+ # FinanceHub - Modern Finance Dashboard UI
 
 A sophisticated, modern SaaS-style finance dashboard built with React, featuring comprehensive financial management, insightful analytics, and a beautiful user interface.
 
@@ -62,7 +62,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Akashp25/finance-dashboard-ui
    cd Finance_Dashboard_UI
    ```
 
